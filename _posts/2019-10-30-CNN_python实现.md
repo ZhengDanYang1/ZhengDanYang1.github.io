@@ -397,7 +397,7 @@ def conv(input_array, kernel_array, output_array, stride, bias):
                 ).sum() + bias
 ```
 
-代码连接：
+[code](https://github.com/ZhengDanYang1/ZhengDanYang1.github.io/blob/master/学习/CNN.ipynb)
 
-[代码]: ../学习/CNN.ipynb
+
 
