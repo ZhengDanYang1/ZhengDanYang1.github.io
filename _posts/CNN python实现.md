@@ -399,5 +399,5 @@ def conv(input_array, kernel_array, output_array, stride, bias):
 
 代码连接：
 
-[代码]: ../学习/CNN.ipynb
+[code](https://github.com/ZhengDanYang1/ZhengDanYang1.github.io/blob/master/学习/CNN.ipynb)
 
